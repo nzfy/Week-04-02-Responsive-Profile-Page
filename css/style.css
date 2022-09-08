@@ -65,7 +65,7 @@ img {
   .left {
     background-color: grey;
   }
-  .menu-item-text {
+  a {
     display: none;
   }
   .Name {
